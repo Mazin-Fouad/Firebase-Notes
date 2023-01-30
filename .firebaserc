@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "mfnote": {
+      "hosting": {
+        "Firebase-Note": [
+          "mfnote"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "mfnote"
+  }
+}
